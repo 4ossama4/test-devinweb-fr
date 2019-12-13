@@ -1,31 +1,31 @@
 <template>
-  <div id="app">
-
-    <img alt="Vue logo" src="./assets/logo.png">
-
-
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+    <div class="container">
+        <app-header></app-header>
+        <div class="row">
+            <index></index>
+        </div>
+        <app-footer></app-footer>
+    </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-import './assets/css/tailwind.css';
-export default {
-  name: 'app',
-  components: {
-    HelloWorld
-  }
-}
+    import Header from './components/Header.vue';
+    import Footer from './components/Footer.vue';
+    import Index from './pages/Index.vue';
+
+    import '@/assets/css/styles.css';
+    import '@/assets/css/tailwind.css';
+    
+
+    export default {
+        components: {
+            appHeader: Header,
+            'index': Index,
+            'app-footer': Footer
+        }
+    }
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>
