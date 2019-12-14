@@ -57,12 +57,92 @@
     </div> -->
 
 
+    <!-- Section How to work -->
+    <section  class="bg-white">
+        <div class="container">
+
+            <!-- How to work -->
+            <div class="row pb-5 pt-5">
+
+
+                <!--  -->
+                <div class="col-12 col-md-12">
+                    <div class="d-flex align-items-center  font-bold" >
+                        <span class="c-logo text-xs"> 02 </span> 
+                        <hr class="ml-2 mr-2 w-10 border-2"> 
+                        <span class="c-logo text-xs">HOW IT WORKS</span>
+                    </div>
+                </div>
+
+
+                <!--  -->
+                <div class="col-12 col-md-4">
+                    <h2 class="c-title text-3xl mt-3 mb-3">
+                        Simple and <br>
+                        handy rental  <br> 
+                        process
+                    </h2>
+                </div>
+
+                <!-- Check thz Avaibile -->
+                 <div class="col-12 col-md-4">
+
+                     <span class="text-gray-600 text-sm">
+                         Snow chains, surf board rack ,key lock box ,or
+                         dog  car seat hammock Avaibile upon request. 
+                     </span>
+                     <hr class="mt-3 mb-3">
+                     <div class="row d-flex align-items-center pb-3">
+                         <div class="col-4 col-md-3 col-lg-2">
+                            <img style="width:32px; height: auto;" class="rounded-full" src="@/assets/img/avatar.png"/>
+                         </div>
+                         <div class="col-8  col-md-9 col-lg-12">
+                            <span class="text-xs font-semibold">
+                                Check the Aviabile accessoires
+                            </span>
+                         </div>
+                     </div>
+                    
+                </div>
+
+
+                <!-- Read our FAQ -->
+                <div class="col-12 col-md-4">
+                    <span class="text-gray-600 text-sm">
+                        Still got questions . We've probably covered  <br>
+                        them all in the help center
+                     </span>
+                     <hr class="mt-3 mb-3">
+                     <div class="row d-flex align-items-center">
+                         <div class="col-4  col-md-3 col-lg-2">
+                            <img style="width:32px; height: auto;" class="rounded-full" src="@/assets/img/avatar.png"/>
+                         </div>
+                         <div class="col-8  col-md-9 col-lg-12">
+                            <span class="text-xs font-semibold">
+                                Read our FAQ
+                            </span>
+                         </div>
+                     </div>
+                </div>
+            </div>
+
+
+
+            <!-- steps -->
+            <div class="row pb-5">
+
+            </div>
+        </div>
+    </section>
+
+
+
     <!-- 03 service zone -->
     <section  class="bg-white">
          <div class="container">
-              <div class="row pb-5 pt-5">
+              <div class="row pb-5">
                   <div class="col-12">
-                        <div class="flex mb-4 content-center text-left pt-12">
+                        <div class="flex content-center text-left pt-12">
 
                             <div class="w-1/3" 
                                 style=" background-position: center;z-index: 2;
@@ -166,7 +246,7 @@
 
 
                 <!-- Price 1 -->
-                <div class="col-12 col-md-6 col-lg-4 pt-5 pl-0">
+                <div class="col-12 col-md-6 col-lg-4 pt-5 pb-5 pl-0">
                     <div class="max-w-md rounded overflow-hidden  p-10 text-center border-purple-200 border">
                         <div class=" text-3xl mb-2 text-purple-900">FlexPass</div>
                         <p class="text-gray-600 text-sm">
@@ -190,7 +270,7 @@
                 </div>
 
                 <!-- Price 2 -->
-                <div class="col-12 col-md-6 col-lg-4 pt-3">
+                <div class="col-12 col-md-6 col-lg-4 pb-5 pt-3">
                     <div class="max-w-md rounded overflow-hidden shadow-lg p-8 text-center  border-purple-700 border-t-4">
                          <div class="mb-2  font-bold text-xs c-logo">RECOMMENDED</div>
                         <div class=" text-3xl mb-2 text-purple-900 ">Geataway</div>
@@ -214,7 +294,7 @@
                 </div>
                 <!-- Price 3 -->
 
-                <div class="col-12 col-md-6 col-lg-4 pt-5 pr-0">
+                <div class="col-12 col-md-6 col-lg-4  pb-5 pt-5 pr-0">
                     <div class="max-w-md rounded overflow-hidden  p-10 text-center border-purple-200 border">
                         <div class=" text-3xl mb-2 text-purple-900">FlexPass</div>
                         <p class="text-gray-600 text-sm">
@@ -245,11 +325,11 @@
         <div class="container">
              <div class="row pb-5 pt-5 ml-5">
                   <div class="col-12 col-md-6 p-0">
-                      <div class="d-flex align-items-center  font-bold" >
+                        <div class="d-flex align-items-center  font-bold" >
                             <span class="c-logo text-xs"> 05 </span> 
                             <hr class="ml-2 mr-2 w-10 border-2"> 
                             <span class="c-logo text-xs"> The car</span>
-                      </div>
+                        </div>
                       
                         <h2 class="c-title text-3xl mt-3 mb-3">
                             Always Drive an <br> Idenical Prius
