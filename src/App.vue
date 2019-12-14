@@ -1,9 +1,7 @@
 <template>
     <div>
         <app-header></app-header>
-        <div class="row">
-            <index></index>
-        </div>
+        <index></index>
         <app-footer></app-footer>
     </div>
 </template>
@@ -15,7 +13,6 @@
 
     import '@/assets/css/styles.css';
     import '@/assets/css/tailwind.css';
-    
 
     export default {
         components: {

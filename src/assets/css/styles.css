@@ -11,9 +11,30 @@
     color:#72738e;
 }
 
-.border-top{
-    border-top:1px solid #e9e8ee;
+.bg-logo{
+    background-color:#72738e!important;
 }
+
+.border-top{
+    border-top:1px solid #e3e2e7;
+}
+
+.border-color{
+    border-color: #e3e2e7;
+}
+
 .b-t-c{
     color:#8c8da0!important;
+}
+.c-title{
+    color: #323456;
+}
+
+.img-mobile{
+    top: -75px;
+    position: relative;
+}
+
+.bg-service{
+     background-color: #323456;
 }

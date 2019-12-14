@@ -47,7 +47,7 @@
                             <input class="appearance-none bg-gr-light text-gray-600 w-full rounded-full  py-2 px-3" placeholder="Email address...">
                             <div class="bg-blue-light shadow-border p-3">
                                 <div class="w-4 h-4">
-                                 <font-awesome-icon icon="fa fa-telegram" /> 
+                                
                                 </div>
                             </div>
 		                </div>
