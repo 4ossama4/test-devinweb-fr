@@ -15,7 +15,7 @@
             </div>
 
 
-            <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
+            <div class="w-full block flex-grow  lg:flex lg:items-center lg:w-auto">
                 <div class="text-sm  text-gray-600 lg:flex-grow">
                     <button class="hover:bg-gray-400  py-2 px-3 rounded inline-flex items-center">
                         <span class="flex rounded-full bg-gray-500  px-2 py-2 text-xs font-bold mr-3"></span>

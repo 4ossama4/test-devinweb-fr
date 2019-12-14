@@ -35,6 +35,12 @@
     position: relative;
 }
 
+.img-the-car{
+    position: relative;
+    top: -60px
+}
+
+
 .bg-service{
      background-color: #323456;
 }
@@ -50,9 +56,25 @@
     width: 16px;
 }
 
+.logos{
+    width: 128px;
+}
+
+.img-avatar{
+    width:37px; 
+    height: auto;
+}
 
 @media only screen and (max-width: 425px){
     .card-rating{  
         margin-bottom: 0px;
+    }
+    .img-mobile {
+        top: 0px;
+        position: initial;
+    }
+    .img-the-car{
+        position: initial;
+        top:0px
     }
 }

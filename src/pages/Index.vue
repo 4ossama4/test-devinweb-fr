@@ -36,11 +36,11 @@
         <div class="container">
             <div class="row d-flex align-items-center">
                 <div class="col-2">
-                    <img style="    width: 128px;" src="@/assets/img/business.png">
+                    <img class="logos" src="@/assets/img/business.png">
                 </div>
 
                 <div class="col-2">
-                    <img style="    width: 128px;" src="@/assets/img/wired.png">
+                    <img  class="logos" src="@/assets/img/wired.png">
                 </div>
 
                 <div class="col-2">
@@ -48,7 +48,7 @@
                 </div>
 
                 <div class="col-2">
-                    <img style="    width: 128px;" src="@/assets/img/metropolis.png">
+                    <img  class="logos" src="@/assets/img/metropolis.png">
                 </div>
 
                 <div class="col-2">
@@ -72,9 +72,7 @@
                 <div class="col-12 col-md-6 pt-5 pb-5">
                         <div class="flex content-center text-left">
 
-                            <div class="w-1/3" 
-                                style=" background-position: center;z-index: 0;
-                                background-size: cover;">
+                            <div class="w-1/3" style="z-index: 0;">
                                 <img src="@/assets/img/img.jpg">
                             </div>
 
@@ -87,7 +85,7 @@
                                <div class="row d-flex align-items-center pt-3">
                                     <div class="col-6  col-md-6 col-lg-6 pl-4">
                                         <span class="d-flex align-items-center">
-                                            <img style="width:37px; height: auto;" class="rounded-full" src="@/assets/img/avatar.png"/>
+                                            <img class="rounded-full img-avatar" src="@/assets/img/avatar.png"/>
                                             <span class="text-xs ml-3">
                                                 Ossama 
                                             </span>
@@ -443,7 +441,7 @@
                         <div class="w-4/4 img-mobile">
                             <img  src="@/assets/img/0.jpg">
                         </div>
-                        <div style="position: relative;top: -60px" class="d-flex">
+                        <div class="d-flex img-the-car">
                             <div class="w-2/4 mr-3 ">
                                 <img src="@/assets/img/2.jpg">
                             </div>
