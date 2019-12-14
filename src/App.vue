@@ -14,6 +14,8 @@
     import '@/assets/css/styles.css';
     import '@/assets/css/tailwind.css';
 
+
+
     export default {
         components: {
             appHeader: Header,

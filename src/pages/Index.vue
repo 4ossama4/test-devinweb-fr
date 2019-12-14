@@ -55,8 +55,8 @@
                    <img style="    width: 128px;height: 53px;" src="@/assets/img/curbed.png">
                 </div>
 
-                <div class="col-2 footer-bg d-flex justify-content-end">
-                    logo
+                <div class="col-2 d-flex justify-content-center">
+                    <img src="@/assets/img/icon-down.svg" alt="">
                 </div>
             </div>
         </div>
@@ -136,8 +136,8 @@
                          </div>
                          <div class="col-8  col-md-9 col-lg-10">
                              <small class="text-gray-600"> Interesed in our values ?</small> <br>
-                            <span class="text-xs font-semibold">
-                               Learn more about the company 
+                            <span class="text-xs font-semibold d-flex">
+                               Learn more about the company  <img src="@/assets/img/flesh.png" class="img-flesh ml-2">
                             </span>
                          </div>
                      </div>
@@ -188,8 +188,8 @@
                             <img style="width:32px; height: auto;" class="rounded-full" src="@/assets/img/avatar.png"/>
                          </div>
                          <div class="col-8  col-md-9 col-lg-10">
-                            <span class="text-xs font-semibold">
-                                Check the Aviabile accessoires
+                            <span class="text-xs font-semibold d-flex">
+                                Check the Aviabile accessoires <img src="@/assets/img/flesh.png" class="img-flesh ml-2">
                             </span>
                          </div>
                      </div>
@@ -209,8 +209,8 @@
                             <img style="width:32px; height: auto;" class="rounded-full" src="@/assets/img/avatar.png"/>
                          </div>
                          <div class="col-8  col-md-9 col-lg-10">
-                            <span class="text-xs font-semibold">
-                                Read our FAQ
+                            <span class="text-xs font-semibold d-flex">
+                                Read our FAQ <img src="@/assets/img/flesh.png" class="img-flesh ml-2">
                             </span>
                          </div>
                      </div>
@@ -259,7 +259,7 @@
 
                                     <div class="flex mb-4 content-center text-left">
                                         <div class="w-1/6">
-                                            <font-awesome-icon icon="user-secret" />
+                                           <img src="@/assets/img/check.svg" class="img-flesh ml-2">
                                         </div>
                                         <div class="w-5/6">
                                             <p class="text-white font-bold text-sm">
@@ -274,7 +274,7 @@
 
                                     <div class="flex mb-4 content-center text-left">
                                         <div class="w-1/6">
-                                           <font-awesome-icon icon="user-secret" />
+                                          <img src="@/assets/img/check.svg" class="img-flesh ml-2">
                                         </div>
                                         <div class="w-5/6">
                                             <p class="text-white font-bold text-sm">
@@ -297,9 +297,9 @@
                                                 Outside of SF ?
                                             </p>
                                             
-                                            <a class="text-white text-xs">
+                                            <a class="text-white text-xs d-flex">
                                                 Tell us where to expend &nbsp; 
-                                                <i class="fa fa-arrow-right"></i>
+                                                <img src="@/assets/img/flesh.png" class="img-flesh ml-2">
                                             </a>
                                         </div>
                                     </div>
@@ -485,6 +485,3 @@
 <script>
 </script>
 
-<style>
-
-</style>
