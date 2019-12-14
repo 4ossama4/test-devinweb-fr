@@ -1,70 +1,80 @@
 <template>
-    <div class="container footer-bg p-8">
-        <div class="sm:flex mb-4">
+    <div class="footer-bg">
+        <div class="container">
+            <div class="sm:flex ml-5 mr-5 pt-5 border-top">
 
-             <!-- Product -->
-            <div class="sm:w-1/4 h-auto">
-                <div class="text-orange mb-2">Product</div>
-                <ul class="list-reset leading-normal">
-                    <li class="text-grey-darker">One</li>
-                    <li class="text-grey-darker">Two</li>
-                    <li class="text-grey-darker">Three</li>
-                    <li class="text-grey-darker">Four</li>
-                </ul>
-            </div>
-
-
-            <!-- Company -->
-            <div class="sm:w-1/4 h-auto sm:mt-0 mt-8">
-                <div class="text-blue mb-2">Company</div>
-                <ul class="list-reset leading-normal">
-                    <li class="hover:text-blue text-grey-darker">One</li>
-                    <li class="hover:text-blue text-grey-darker">Two</li>
-                    <li class="hover:text-blue text-grey-darker">Three</li>
-                    <li class="hover:text-blue text-grey-darker">Three</li>
-                </ul>
-            </div>
+                <!-- Product -->
+                <div class="sm:w-1/4 h-auto">
+                    <div class="text-xs  font-bold text-gray-700  uppercase mb-4">Product</div>
+                    <ul class="text-sm text-gray-900 list-reset leading-normal">
+                        <li class="">Personal</li>
+                        <li class="">Business</li>
+                        <li class="">Pricing</li>
+                        <li class="">Log In</li>
+                    </ul>
+                </div>
 
 
-            <!-- Help Center -->
-            <div class="sm:w-1/4 h-auto sm:mt-0 mt-8">
-                <div class="text-green-dark mb-2">Green-dark</div>
-                <ul class="list-reset leading-normal">
-                    <li class="hover:text-green-dark text-grey-darker">One</li>
-                    <li class="hover:text-green-dark text-grey-darker">Two</li>
-                    <li class="hover:text-green-dark text-grey-darker">Three</li>
-                </ul>
-            </div>
+                <!-- Company -->
+                <div class="sm:w-1/4 h-auto sm:mt-0 mt-8">
+                    <div class="text-xs font-bold text-gray-700 uppercase mb-4">Company</div>
+                    <ul class="text-sm text-gray-900 list-reset leading-normal">
+                        <li class="">About</li>
+                        <li class="">Blog</li>
+                        <li class="">Careers</li>
+                        <li class="">Contact Us</li>
+                    </ul>
+                </div>
 
 
-            <!-- Stay in touch -->
-            <div class="sm:w-1/2 sm:mt-0 mt-8 h-auto">
-                <div class="text-red-light mb-2">Stay in touch</div>
-                <p class="text-grey-darker leading-normal">Join our mailing list to get update. We respect your privacy.  </p>
-                
+                <!-- Help Center -->
+                <div class="sm:w-1/4 h-auto sm:mt-0 mt-8">
+                    <div class="text-xs font-bold text-gray-700  uppercase mb-4">Help center</div>
+                    <ul class="text-sm text-gray-900 list-reset leading-normal">
+                        <li class="">FAQ</li>
+                        <li class="">Insurance</li>
+                        <li class="">Agreement</li>
+                    </ul>
+                </div>
 
-                <div class="mt-4 flex">
-                    <input type="text" class="p-2 border border-grey-light round text-grey-dark text-sm h-auto" placeholder="Your email address">
-                    <button class="bg-orange text-white rounded-sm h-auto text-xs p-3">Subscribe</button>
+
+                <!-- Stay in touch -->
+                <div class="sm:w-1/2 sm:mt-0 mt-8 h-auto">
+                    <div class="text-xs font-bold text-gray-700  uppercase mb-4">Stay in touch</div>
+                    <p style="margin-top: 2.25rem;font-size: 15px;" class="text-sm text-gray-600 pb-3">Join our mailing list to get update. We respect your privacy.  </p>
+                    <div class="flex">
+                        <div class="flex bg-gr-light rounded-full    w-full overflow-hidden">
+                            <input class="appearance-none bg-gr-light text-gray-600 w-full rounded-full  py-2 px-3" placeholder="Email address...">
+                            <div class="bg-blue-light shadow-border p-3">
+                                <div class="w-4 h-4">
+                                 <font-awesome-icon icon="fa fa-telegram" /> <i class="fa fa-telegram" aria-hidden="true"></i>
+                                </div>
+                            </div>
+		                </div>
+                    </div>
                 </div>
             </div>
 
-        </div>
+            <!-- Copyright -->
+            <div class="sm:flex ml-5 mr-5 pb-5 mt-4">
+                <!-- logo -->
+                <div class="sm:w-1/4 h-auto">
+                    <div class="text-orange">
+                         <div class="flex items-center flex-shrink-0 c-logo">
+                            <svg class="fill-current h-8 w-8 mr-2" width="54" height="54" viewBox="0 0 54 54" xmlns="http://www.w3.org/2000/svg"><path d="M13.5 22.1c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05zM0 38.3c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05z"/></svg>
+                            <span class="font-semibold text-xl tracking-tight">Tailwind CSS</span>
+                        </div>
+                    </div>
+                </div>
 
-        <!-- Copyright -->
-        <div class="sm:flex mt-4">
-            <!-- logo -->
-            <div class="sm:w-1/4 h-auto">
-                <div class="text-orange mb-2">logo</div>
+                <div class="sm:w-2/4 h-auto sm:mt-2">
+                    <div class="text-gray-600  text-xs">Copyright @ 2019 Upshift,Inc.</div>
+                </div>
+
+                <div class="sm:w-1/2 sm:mt-0 mt-8 h-auto">
+                    logo facebook
+                </div>
             </div>
-
-             <div class="sm:w-2/4 h-auto sm:mt-0 mt-8">
-                <div class="text-red-light mb-2">Stay in touch</div>
-             </div>
-
-             <div class="sm:w-1/2 sm:mt-0 mt-8 h-auto">
-                logo facebook
-             </div>
         </div>
     </div>
 </template>

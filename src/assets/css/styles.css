@@ -1,3 +1,16 @@
 .footer-bg{
     background-color: #f6f5f8;;
 }
+.leading-normal {
+    line-height: 3.5!important;
+}
+.bg-gr-light{
+    background-color: #e6e8ea;
+}
+.c-logo{
+    color:#72738e;
+}
+
+.border-top{
+    border-top:1px solid #e9e8ee;
+}
