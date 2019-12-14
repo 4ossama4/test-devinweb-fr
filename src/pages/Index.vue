@@ -57,6 +57,50 @@
     </div> -->
 
 
+    <!-- About Section -->
+    <section  class="bg-white">
+        <div class="container">
+            <div class="row pt-5 pb-5">
+                <div class="col-12 col-md-6">
+
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="d-flex align-items-center  font-bold" >
+                        <span class="c-logo text-xs"> 01 </span> 
+                        <hr class="ml-2 mr-2 w-10 border-2"> 
+                        <span class="c-logo text-xs">ABOUT US</span>
+                    </div>
+                    <h2 class="c-title text-3xl mt-3 mb-3">
+                        Let's make cities better
+                    </h2>
+                    <p class="text-gray-600 text-sm">
+                        Upshift is like having your own car at your doorstep, but only <br>
+                        the days you want it . Monthly plans based on how much you  <br>
+                        drive that include parking, insurance maintenecce and more.
+                    </p>
+                    <p class="text-gray-600 text-sm">
+                        We believe in using business ti drive positive  change in the <br>
+                        world and never setting for what worked in the past
+                    </p>
+                    <hr class="w-1/2 mb-4 mt-4">
+                     <div class="row d-flex align-items-center">
+                         <div class="col-4  col-md-3 col-lg-2">
+                            <img style="width:32px; height: auto;" class="rounded-full" src="@/assets/img/avatar.png"/>
+                         </div>
+                         <div class="col-8  col-md-9 col-lg-10">
+                             <small class="text-gray-600"> Interesed in our values ?</small> <br>
+                            <span class="text-xs font-semibold">
+                               Learn more about the company 
+                            </span>
+                         </div>
+                     </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
     <!-- Section How to work -->
     <section  class="bg-white">
         <div class="container">
@@ -96,7 +140,7 @@
                          <div class="col-4 col-md-3 col-lg-2">
                             <img style="width:32px; height: auto;" class="rounded-full" src="@/assets/img/avatar.png"/>
                          </div>
-                         <div class="col-8  col-md-9 col-lg-12">
+                         <div class="col-8  col-md-9 col-lg-10">
                             <span class="text-xs font-semibold">
                                 Check the Aviabile accessoires
                             </span>
@@ -117,7 +161,7 @@
                          <div class="col-4  col-md-3 col-lg-2">
                             <img style="width:32px; height: auto;" class="rounded-full" src="@/assets/img/avatar.png"/>
                          </div>
-                         <div class="col-8  col-md-9 col-lg-12">
+                         <div class="col-8  col-md-9 col-lg-10">
                             <span class="text-xs font-semibold">
                                 Read our FAQ
                             </span>
