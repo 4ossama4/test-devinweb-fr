@@ -58,7 +58,7 @@
             <!-- Copyright -->
             <div class="sm:flex ml-5 mr-5 pb-5 mt-4">
                 <!-- logo -->
-                <div class="sm:w-1/4 h-auto">
+                <div class="sm:w-1/3 h-auto">
                     <div class="text-orange">
                          <div class="flex items-center flex-shrink-0 c-logo">
                             <svg class="fill-current h-8 w-8 mr-2" width="54" height="54" viewBox="0 0 54 54" xmlns="http://www.w3.org/2000/svg"><path d="M13.5 22.1c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05zM0 38.3c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05z"/></svg>
@@ -67,13 +67,21 @@
                     </div>
                 </div>
 
-                <div class="sm:w-2/4 h-auto sm:mt-2">
+                <div class="sm:w-1/3 h-auto sm:mt-2">
                     <div class="text-gray-600  text-xs">Copyright @ 2019 Upshift,Inc.</div>
                 </div>
 
-                <div class="sm:w-1/2 sm:mt-0 mt-8 h-auto">
-                    logo facebook
+                <div class="sm:w-1/3 sm:mt-0 mt-8 h-auto">
+                    <div class="row d-flex justify-content-end">
+                        
+                        <img src="@/assets/img/social/Facebook.svg">
+                          <img src="@/assets/img/social/Instagram.svg">
+                          <img src="@/assets/img/social/Linkedin.svg">
+                    </div>
+                  
                 </div>
+                
+            </div>
             </div>
         </div>
     </div>

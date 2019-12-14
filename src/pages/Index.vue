@@ -3,67 +3,73 @@
     <!-- Header body -->
     <div class="footer-bg pt-5 pb-5">
         <div class="container">
-            <div class="row pt-5 pb-5" >
-                <div class="col-12 col-md-6">
-                    <h1 class="font-semibold c-title"> Just drive.</h1>
-                    <h1 class="font-semibold c-title mb-4"> We'll do the reset.</h1>
-                    <span class="text-gray-600 text-sm ">
-                        All-inclusive,usage-based car subscriptions.
-                    </span>
-                    <form class="w-full max-w-sm mt-4">
-                        <div class="flex items-center">
-                            <input class="border-b border-b-2 border-color appearance-none bg-transparent  w-full text-gray-400 mr-4 py-3 px-2 leading-tight focus:outline-none" type="text" placeholder="Phone number">
-                            <button class="bg-logo flex-shrink-0  hover:bg-teal-700  hover:border-teal-700 text-xs  text-white py-3 px-4 rounded-full" type="button">
-                                Get started
-                            </button>
-                        </div>
-                    </form>
+            <div class="row" >
+                <div class="col-12 col-md-6 d-flex align-items-center pt-5 pb-5">
+                    <div >
+                        <h1 class="font-semibold c-title"> Just drive.</h1>
+                        <h1 class="font-semibold c-title mb-4"> We'll do the reset.</h1>
+                        <span class="text-gray-600 text-sm ">
+                            All-inclusive,usage-based car subscriptions.
+                        </span>
+                        <form class="w-full max-w-sm mt-4">
+                            <div class="flex items-center">
+                                <input class="border-b border-b-2 border-color appearance-none bg-transparent  w-full text-gray-400 mr-4 py-3 px-2 leading-tight focus:outline-none" type="text" placeholder="Phone number">
+                                <button class="bg-logo flex-shrink-0  hover:bg-teal-700  hover:border-teal-700 text-xs  text-white py-3 px-4 rounded-full" type="button">
+                                    Get started
+                                </button>
+                            </div>
+                        </form>
+                    </div>
                 </div>
-                <div class="col-12 col-md-6 d-flex align-items-center justify-content-center">
-                    <i class="user"></i>
+                <div class="col-12 col-md-6 d-flex align-items-center justify-content-center pt-5 pb-5">
+                    <img src="@/assets/img/drive.jpg" class="rounded-lg">
                 </div>
             </div>
         </div>
     </div>
     <!-- end Header body -->
 
-    <!-- logos -->
-    <!-- <div class="bg-white">
-            <div class="row">
-                <div class="col-2 d-flex justify-content-end pr-0">
+
+
+    <!--  logos -->
+    <div class="bg-white">
+        <div class="container">
+            <div class="row d-flex align-items-center">
+                <div class="col-2">
                     <img style="    width: 128px;" src="@/assets/img/business.png">
                 </div>
 
-                <div class="col-2 d-flex justify-content-end pr-0">
-                    <img style="    width: 128px;" src="@/assets/img/business.png">
+                <div class="col-2">
+                    <img style="    width: 128px;" src="@/assets/img/wired.png">
                 </div>
 
-                <div class="col-2 d-flex justify-content-end pr-0">
-                    <img style="    width: 128px;" src="@/assets/img/business.png">
+                <div class="col-2">
+                    <img style="    width: 128px;    height: 50px;" src="@/assets/img/urban.png">
                 </div>
 
-                <div class="col-2 d-flex justify-content-end pr-0">
-                    <img style="    width: 128px;" src="@/assets/img/business.png">
+                <div class="col-2">
+                    <img style="    width: 128px;" src="@/assets/img/metropolis.png">
                 </div>
 
-                <div class="col-2 d-flex justify-content-end pr-0">
-                   <img style="    width: 128px;" src="@/assets/img/business.png">
+                <div class="col-2">
+                   <img style="    width: 128px;height: 53px;" src="@/assets/img/curbed.png">
                 </div>
 
-                <div class="col-2 footer-bg d-flex justify-content-center">
+                <div class="col-2 footer-bg d-flex justify-content-end">
                     logo
                 </div>
             </div>
-    </div> -->
+        </div>
+    </div>
 
 
     <!-- About Section -->
     <section  class="bg-white">
         <div class="container">
-            <div class="row pt-5 pb-5">
+            <div class="row ">
 
                 <!-- rating -->
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-6 pt-5 pb-5">
                         <div class="flex content-center text-left">
 
                             <div class="w-1/3" 
@@ -105,7 +111,7 @@
                 </div>
 
                 <!-- ABOUT US -->
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-6 pt-5 pb-5">
                     <div class="d-flex align-items-center  font-bold" >
                         <span class="c-logo text-xs"> 01 </span> 
                         <hr class="ml-2 mr-2 w-10 border-2"> 
@@ -147,11 +153,11 @@
         <div class="container">
 
             <!-- How to work -->
-            <div class="row pb-5 pt-5">
+            <div class="row">
 
 
                 <!--  -->
-                <div class="col-12 col-md-12">
+                <div class="col-12 col-md-12 pt-5">
                     <div class="d-flex align-items-center  font-bold" >
                         <span class="c-logo text-xs"> 02 </span> 
                         <hr class="ml-2 mr-2 w-10 border-2"> 
@@ -161,7 +167,7 @@
 
 
                 <!--  -->
-                <div class="col-12 col-md-4">
+                <div class="col-12 col-md-4 pb-5 ">
                     <h2 class="c-title text-3xl mt-3 mb-3">
                         Simple and <br>
                         handy rental  <br> 
@@ -170,7 +176,7 @@
                 </div>
 
                 <!-- Check thz Avaibile -->
-                 <div class="col-12 col-md-4">
+                 <div class="col-12 col-md-4 pb-5">
 
                      <span class="text-gray-600 text-sm">
                          Snow chains, surf board rack ,key lock box ,or
@@ -192,7 +198,7 @@
 
 
                 <!-- Read our FAQ -->
-                <div class="col-12 col-md-4">
+                <div class="col-12 col-md-4 pb-5 ">
                     <span class="text-gray-600 text-sm">
                         Still got questions . We've probably covered  <br>
                         them all in the help center
