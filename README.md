@@ -1,24 +1,34 @@
-# test-devinweb-fr
+# Project Title
 
-## Project setup
-```
-yarn install
-```
+Technical test DEVINWEB
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Getting Started
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Installing
 
-### Lints and fixes files
-```
-yarn lint
-```
+You need to have npm installed on your PC/Mac.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Then just run npm install in the project's root.
+
+
+## Start project
+
+Run npm run serve for a dev server. Navigate to http://localhost:8080/. The app will automatically reload if you change any of the source files.
+
+## Built With
+
+* Vue.js
+* Material Design :Tailwindcss
+* Responsive layout
+* bootstrap
+
+
+## Versioning
+
+## Authors
+* **Ossama ATTALIB**
+
+
+## License
+
+
