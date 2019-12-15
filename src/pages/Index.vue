@@ -207,8 +207,8 @@
                             <img style="width:32px; height: auto;" class="rounded-full" src="@/assets/img/avatar.png"/>
                          </div>
                          <div class="col-8  col-md-9 col-lg-10">
-                            <span class="text-xs font-semibold d-flex">
-                                Read our FAQ <img src="@/assets/img/flesh.png" class="img-flesh ml-2">
+                            <span class=" text-xs font-semibold d-flex">
+                               <span class="underlined-example">Read our FAQ</span>  <img src="@/assets/img/flesh.png" class="img-flesh ml-2">
                             </span>
                          </div>
                      </div>
@@ -219,7 +219,18 @@
 
             <!-- steps -->
             <div class="row pb-5">
-
+                <!-- <div class="col-md-3 d-flex justify-content-center">
+sss
+                </div>
+                 <div class="col-md-3 d-flex justify-content-center">
+ss
+                </div>
+                 <div class="col-md-3 ">
+ss
+                </div>
+                 <div class="col-md-3">
+ss
+                </div> -->
             </div>
         </div>
     </section>

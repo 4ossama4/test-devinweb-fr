@@ -46,8 +46,8 @@
                         <div class="flex bg-gr-light rounded-full    w-full overflow-hidden">
                             <input class="appearance-none bg-gr-light text-gray-600 w-full rounded-full  py-2 px-3" placeholder="Email address...">
                             <div class="bg-blue-light shadow-border p-3">
-                                <div class="w-4 h-4">
-                                
+                                <div class="w-4">
+                                 <i class="fa fa-paper-plane"></i>
                                 </div>
                             </div>
 		                </div>

@@ -19,32 +19,36 @@
                 <div class="text-sm  text-gray-600 lg:flex-grow">
                     <button class="hover:bg-gray-400  py-2 px-3 rounded inline-flex items-center">
                         <span class="flex rounded-full bg-gray-500  px-2 py-2 text-xs font-bold mr-3"></span>
-                        <span>Personal</span>
+                        <span class="underlined-example">Personal</span>
                     </button>
                     <button class="hover:bg-gray-400  py-2 px-4 rounded inline-flex items-center">
                         <span class="flex rounded-full bg-gray-400  px-2 py-2 text-xs font-bold mr-3"></span>
-                        <span>Business</span>
+                        <span class="underlined-example">Business</span>
                     </button>
                 </div>
 
                 <div class="text-sm  text-gray-600 lg:flex-grow">
-                    <a  class="block  lg:inline-block lg:mt-0  hover:text-white mr-4">
+                    <a  class="underlined-example block  lg:inline-block lg:mt-0  hover:text-white mr-4">
                         About
                     </a>
-                    <a class="block  lg:inline-block lg:mt-0  hover:text-white mr-4">
+                    <a class="underlined-example block  lg:inline-block lg:mt-0  hover:text-white mr-4">
                       Pricing
                     </a>
-                    <a  class="block  lg:inline-block lg:mt-0  hover:text-white mr-4">
+                    <a  class=" underlined-example block  lg:inline-block lg:mt-0  hover:text-white mr-4">
                       FAQ
                     </a>
-                     <a  class="block  lg:inline-block lg:mt-0  hover:text-white mr-4">
+                     <a  class="underlined-example block  lg:inline-block lg:mt-0  hover:text-white mr-4">
                       Contact Us
                     </a>
                 </div>
 
                 
                 <div>
-                    <a class="inline-block b-t-c text-xs px-4 py-3 leading-none    hover:border-transparent hover:text-teal-500 hover:bg-white">Log in</a>
+                    <a class=" inline-block b-t-c text-xs px-4 py-3 leading-none    hover:border-transparent hover:text-teal-500 hover:bg-white">
+                       <span class="underlined-example">
+                           Log in
+                        </span> 
+                    </a>
                     <a class="inline-block b-t-c text-xs px-4 py-3 leading-none rounded-full  bg-gr-light   hover:border-transparent hover:text-teal-500 hover:bg-white">Join now</a>
                 </div>
             </div>
