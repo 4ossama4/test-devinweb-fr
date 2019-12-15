@@ -56,7 +56,7 @@
                 </div>
 
                 <div class="col-2 d-flex justify-content-center">
-                    <img src="@/assets/img/icon-down.svg" alt="">
+                   <i class="fa fa-arrow-down"></i>
                 </div>
             </div>
         </div>
@@ -135,7 +135,7 @@
                          <div class="col-8  col-md-9 col-lg-10">
                              <small class="text-gray-600"> Interesed in our values ?</small> <br>
                             <span class="text-xs font-semibold d-flex">
-                               Learn more about the company  <img src="@/assets/img/flesh.png" class="img-flesh ml-2">
+                               Learn more about the company  <i class="fa fa-arrow-right ml-2 pt-1"></i>
                             </span>
                          </div>
                      </div>
@@ -183,11 +183,11 @@
                      <hr class="mt-3 mb-3">
                      <div class="row d-flex align-items-center pb-3">
                          <div class="col-4 col-md-3 col-lg-2">
-                            <img style="width:32px; height: auto;" class="rounded-full" src="@/assets/img/avatar.png"/>
+                             <i class="fa fa-question-circle text-2xl text-gray-600"></i>
                          </div>
                          <div class="col-8  col-md-9 col-lg-10">
                             <span class="text-xs font-semibold d-flex">
-                                Check the Aviabile accessoires <img src="@/assets/img/flesh.png" class="img-flesh ml-2">
+                                Check the Aviabile accessoires <i class="fa fa-arrow-right ml-2 pt-1"></i>
                             </span>
                          </div>
                      </div>
@@ -204,11 +204,11 @@
                      <hr class="mt-3 mb-3">
                      <div class="row d-flex align-items-center">
                          <div class="col-4  col-md-3 col-lg-2">
-                            <img style="width:32px; height: auto;" class="rounded-full" src="@/assets/img/avatar.png"/>
+                             <i class="fa fa-question-circle text-2xl text-gray-600"></i>
                          </div>
                          <div class="col-8  col-md-9 col-lg-10">
                             <span class=" text-xs font-semibold d-flex">
-                               <span class="underlined-example">Read our FAQ</span>  <img src="@/assets/img/flesh.png" class="img-flesh ml-2">
+                               <span class="underlined-example">Read our FAQ</span>  <i class="fa fa-arrow-right ml-2 pt-1"></i>
                             </span>
                          </div>
                      </div>
@@ -220,16 +220,12 @@
             <!-- steps -->
             <div class="row pb-5">
                 <!-- <div class="col-md-3 d-flex justify-content-center">
-sss
                 </div>
                  <div class="col-md-3 d-flex justify-content-center">
-ss
                 </div>
                  <div class="col-md-3 ">
-ss
                 </div>
                  <div class="col-md-3">
-ss
                 </div> -->
             </div>
         </div>
@@ -299,7 +295,7 @@ ss
                                     <hr class="bg-white">
                                     <div class="flex mb-4 content-center text-left mt-5">
                                         <div class="w-2/6">
-                                            <img style="width:70px; height: auto;" class="rounded-full" src="@/assets/img/avatar.png"/>
+                                            <i class="fa fa-sign-out-alt text-4xl"></i>
                                         </div>
                                         <div class="w-4/6">
                                             <p class="text-gray-500 text-sm">
@@ -308,7 +304,7 @@ ss
                                             
                                             <a class="text-white text-xs d-flex">
                                                 Tell us where to expend &nbsp; 
-                                                <img src="@/assets/img/flesh.png" class="img-flesh ml-2">
+                                                 <i class="fa fa-arrow-right pt-1"></i>
                                             </a>
                                         </div>
                                     </div>
@@ -413,7 +409,7 @@ ss
                             Start with Flexpass
                         </button>
                             
-                        <a class="block text-xs pt-6"> View plan details &nbsp; <i class="fa fa-arrow-right"></i> </a>
+                        <a class=" block text-xs pt-6"> View plan details &nbsp; <i class="fa fa-arrow-right "></i> </a>
                     </div>
                 </div>
             </div>
