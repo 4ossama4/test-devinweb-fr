@@ -219,14 +219,88 @@
 
             <!-- steps -->
             <div class="row pb-5">
-                <!-- <div class="col-md-3 d-flex justify-content-center">
+                <div class="col-md-3 text-center">
+                    <i class="fa fa-font text-5xl text-gray-500 pb-4"></i>
+                   
+                    <h3 class="pb-4 text-2xl c-title">
+                        Text us
+                    </h3>
+                    <div class="text-gray-600 text-sm leading-loose pb-4"> 
+                        <span>
+                            Text when you want your car.
+                        </span>
+                        <br>
+                        <span>
+                            No app needed, just an online.
+                        </span>
+                        <span>
+                           account.real human operators.
+                        </span>
+
+                    </div>
+                    <hr>
                 </div>
-                 <div class="col-md-3 d-flex justify-content-center">
+                 <div class="col-md-3 text-center pt-4">
+                     <i class="fa fa-truck text-5xl text-gray-500 pb-4"></i>
+                     <h3 class="pb-4 text-2xl c-title">
+                        We deliver
+                    </h3>
+                    <div class="text-gray-600 text-sm leading-loose pb-4"> 
+                        <span>
+                            Text when you want your car.
+                        </span>
+                        <br>
+                        <span>
+                            No app needed, just an online.
+                        </span>
+                        <span>
+                           account.real human operators.
+                        </span>
+
+                    </div>
+                    <hr>
+                        
                 </div>
-                 <div class="col-md-3 ">
+                 <div class="col-md-3 text-center">
+                     <i class="fa fa-google-drive text-5xl text-gray-500 pb-4"></i>
+                     <h3 class="pb-4 text-2xl c-title">
+                        You drive
+                    </h3>
+                   <div class="text-gray-600 text-sm leading-loose pb-4"> 
+                        <span>
+                            Text when you want your car.
+                        </span>
+                        <br>
+                        <span>
+                            No app needed, just an online.
+                        </span>
+                        <span>
+                           account.real human operators.
+                        </span>
+
+                    </div>
+                    <hr>
                 </div>
-                 <div class="col-md-3">
-                </div> -->
+                 <div class="col-md-3 text-center pt-4">
+                     <i class="fas fa-people-carry text-5xl text-gray-500 pb-4"></i>
+                     <h3 class="pb-4 text-2xl c-title">
+                        We pick it up
+                    </h3>
+                    <div class="text-gray-600 text-sm leading-loose pb-4"> 
+                        <span>
+                            Text when you want your car.
+                        </span>
+                        <br>
+                        <span>
+                            No app needed, just an online.
+                        </span>
+                        <span>
+                           account.real human operators.
+                        </span>
+
+                    </div>
+                    <hr>
+                </div>
             </div>
         </div>
     </section>
